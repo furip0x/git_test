@@ -1,5 +1,3 @@
-# 📔 Git Test
+# ⚔️🛡️ This is warrior_branch
 
-## Git test repo
-
-This is a repo for testing git commands 👋
+Hi warrior friend 👋
