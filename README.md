@@ -1,5 +1,3 @@
-# 📔 Git Test
+# 🧙 This is mai_branch
 
-## Git test repo
-
-This is a repo for testing git commands 👋
+Hello there 🧔
