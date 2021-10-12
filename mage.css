@@ -1,9 +1,0 @@
-.mage {
-  color: blue;
-  background: white;
-}
-
-.mage::after {
-  content: 'Magey';
-  display: inline-block;
-}
