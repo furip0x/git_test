@@ -1,3 +1,7 @@
 # ⚔️🛡️ This is warrior_branch
 
-Hi warrior friend 💂‍♂️
+## Hi friend 💂‍♂️
+
+- List 1
+- List 2
+- List 3
