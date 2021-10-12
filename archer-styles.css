@@ -1,9 +1,0 @@
-.archer {
-  color: brown;
-  background: white;
-}
-
-.archer::after {
-  content: 'archer';
-  display: inline-block;
-}
